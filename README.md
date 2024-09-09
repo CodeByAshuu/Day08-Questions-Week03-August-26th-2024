@@ -1,5 +1,5 @@
 # Day08-Questions-Week03-August-26th-2024
-This is Cipher Schools Assignment Repo for Day8 Week3 August26
+This is Cipher Schools Assignment Repo for Day8 Week3 August26<br><br>
 <b>Ques 1:</b> Write a function int stringLength(const std::string &str) that returns the length of a given string. Test your function with various strings in the main() function.
 <br>
 Sample Input:- str1 = "Hello, World!"<br>
